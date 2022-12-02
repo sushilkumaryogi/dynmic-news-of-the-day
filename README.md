@@ -1,1 +1,1 @@
-# dynmic-news-of-the-day
+# Dynmic-news-of-the-day
